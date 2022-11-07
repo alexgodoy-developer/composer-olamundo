@@ -1,18 +1,18 @@
 {
     "name": "alexgodoy-developer/composer-olamundo",
-    "description": "Pacote de exemplo criado no curso da Treinaweb",
+    "description": "Pacote de exemplo criado no curso de composer da Treinaweb",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Alex Godoy",
+            "name": "alexgodoy-developer",
             "email": "alexgodoy.dev@gmail.com"
         }
     ],
     "require": {},
     "autoload": {
         "psr-4": {
-            "Treinaweb\\": "src"
+            "Treinaweb\\": "src/"
         }
     }
 }
